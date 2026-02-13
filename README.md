@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🎬 CineFlix
+# 🎬 Poncho peliculas
 
 ### Sistema de Gestión de Películas con CRUD y Autenticación
 
