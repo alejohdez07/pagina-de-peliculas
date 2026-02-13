@@ -1,12 +1,10 @@
 🎬 Poncho Películas
-
 Aplicación web desarrollada como proyecto educativo para la gestión de un catálogo de películas con sistema de autenticación y operaciones CRUD completas.
 
 🚀 Descripción
-
 Poncho Películas es una aplicación frontend que permite a los usuarios registrarse, iniciar sesión y administrar un catálogo de películas. Incluye funcionalidades de creación, visualización, edición y eliminación de registros, además de filtros y búsqueda dinámica.
-
 El proyecto fue desarrollado utilizando arquitectura modular con JavaScript ES6 y almacenamiento en localStorage, sin necesidad de backend.
+
 
 🎯 Funcionalidades
 
@@ -15,11 +13,8 @@ El proyecto fue desarrollado utilizando arquitectura modular con JavaScript ES6 
 🎥 Gestión completa de películas (CRUD)
 
 Crear nuevas películas
-
 Visualizar catálogo en grid dinámico
-
 Editar películas mediante modal
-
 Eliminar con confirmación
 
 🔎 Búsqueda por título
